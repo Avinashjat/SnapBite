@@ -35,32 +35,6 @@
 
 ---
 
-## 🗂 Project Structure
-
-SnapBite/
-├── backend/ # Express + MongoDB
-│ ├── models/
-│ ├── controllers/
-│ ├── routes/
-│ └── middleware/
-│
-├── frontend/ # User panel (React + Tailwind)
-│ └── src/
-│ ├── pages/
-│ ├── components/
-│ ├── features/
-│
-├── admin/ # Admin panel (React)
-│ └── src/
-│ ├── pages/
-│ ├── components/
-│ ├── features/
-│
-├── README.md
-└── .gitignore
-
-
-
 
 ---
 
