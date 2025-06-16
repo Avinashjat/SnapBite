@@ -60,14 +60,14 @@
 
 
 ## 4️⃣ Admin Panel Setup
-cd ../admin
-npm install
-npm run dev
+- cd ../admin
+- npm install
+- npm run dev
 
 
----
-Configuration backend/.env
 
-JWT_SECRET = your secret key
-STRIPE_SECRET_KEY = your stripe secret key 
-MONGO_URI = your mongo uri 
+## Configuration backend/.env
+
+- JWT_SECRET = your secret key
+- STRIPE_SECRET_KEY = your stripe secret key 
+- MONGO_URI = your mongo uri 
