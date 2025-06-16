@@ -38,28 +38,28 @@
 
 ## 🚀 Getting Started
 
-1️⃣  ### Clone the Repository
+## 1️⃣ Clone the Repository
 
-git clone https://github.com/your-username/SnapBite.git
-cd SnapBite
-
----
-
-2️⃣ ### Backend Setup
-cd backend
-npm install
-cp .env.example .env  # Create .env with the values below
-npm run dev
+- git clone https://github.com/your-username/SnapBite.git
+- cd SnapBite
 
 
 
-3️⃣ ### Frontend (User Panel) Setup
-cd ../frontend
-npm install
-npm run dev
+## 2️⃣ ### Backend Setup
+- cd backend
+- npm install
+- cp .env.example .env  # Create .env with the values below
+- npm run dev
 
 
-4️⃣ ### Admin Panel Setup
+
+## 3️⃣ Frontend (User Panel) Setup
+- cd ../frontend
+- npm install
+- npm run dev
+
+
+## 4️⃣ Admin Panel Setup
 cd ../admin
 npm install
 npm run dev
