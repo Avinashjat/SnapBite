@@ -70,4 +70,12 @@
 
 - JWT_SECRET = your secret key
 - STRIPE_SECRET_KEY = your stripe secret key 
-- MONGO_URI = your mongo uri 
+- MONGO_URI = your mongo uri
+
+
+## 👨‍💻 Developed By
+### Avinash Jat
+### Full Stack Developer – MERN Stack
+- 📧 Email: dev.avinashjat.com
+- 🌐 GitHub: github.com/Avinashjat
+   
