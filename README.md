@@ -77,5 +77,5 @@
 ### Avinash Jat
 ### Full Stack Developer – MERN Stack
 - 📧 Email: dev.avinashjat@gmail.com
-- 🌐 GitHub: github.com/Avinashjat
+- 🌐 GitHub: https://github.com/Avinashjat
    
