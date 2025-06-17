@@ -76,6 +76,6 @@
 ## 👨‍💻 Developed By
 ### Avinash Jat
 ### Full Stack Developer – MERN Stack
-- 📧 Email: dev.avinashjat.com
+- 📧 Email: dev.avinashjat@gmail.com
 - 🌐 GitHub: github.com/Avinashjat
    
