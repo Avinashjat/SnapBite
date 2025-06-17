@@ -17,6 +17,11 @@
     gap: 80px;
 }
 
+.my-logo-footer{
+    font-size: 50px;
+    color: #f26525;    
+}
+
 .footer-content-left, .footer-content-center, .footer-content-right{
     display: flex;
     flex-direction: column;

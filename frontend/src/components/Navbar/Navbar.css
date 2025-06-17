@@ -13,6 +13,12 @@
     width: 150px;
 }
 
+
+.my-logo{
+    font-size: 40px;
+    color: #5eaadc;    
+}
+
 .navbar-menu{
     display: flex;
     list-style: none;
